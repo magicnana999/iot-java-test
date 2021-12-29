@@ -1,1 +1,1 @@
-# iot-java-test
+# MQTT protocol test
